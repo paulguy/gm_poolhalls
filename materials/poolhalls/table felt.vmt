@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+    $basetexture "poolhalls\table felt.vtf"
+    $surfaceprop Carpet
+}

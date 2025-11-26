@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+    $basetexture "poolhalls\arcade machine.vtf"
+    $selfillum 1
+}

@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+    $basetexture "poolhalls\arcade floor.vtf"
+    $surfaceprop Carpet
+}

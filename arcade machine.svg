@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="arcade machine.svg"
+   inkscape:export-filename="arcade machine.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showguides="true"
+     inkscape:zoom="1.6337719"
+     inkscape:cx="228.30604"
+     inkscape:cy="229.83624"
+     inkscape:window-width="1637"
+     inkscape:window-height="960"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer7"
+     showgrid="true">
+    <sodipodi:guide
+       position="160,72"
+       orientation="0,1"
+       id="guide10"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="160,72"
+       orientation="1,-3.6732051e-06"
+       id="guide11"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="80,72"
+       orientation="1,-3.6732051e-06"
+       id="guide12"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="80,232"
+       orientation="0,1"
+       id="guide13"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="16,256"
+       orientation="0.94898462,0.31532236"
+       id="guide14"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="32,232"
+       orientation="0.96910913,-0.24663231"
+       id="guide15"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="16,164"
+       orientation="0.23924933,-0.97095817"
+       id="guide16"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="144,256"
+       orientation="-0.94898462,0.31532236"
+       id="guide17"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="144,164"
+       orientation="-0.23924933,-0.97095817"
+       id="guide18"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="128,232"
+       orientation="-0.96910913,-0.24663231"
+       id="guide19"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="164,234"
+       orientation="0,1"
+       id="guide8"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="164,234"
+       orientation="1,0"
+       id="guide9"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="176,64"
+       orientation="-1,0"
+       id="guide20"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="176,64"
+       orientation="0,1"
+       id="guide21"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,134,229)" />
+    <inkscape:grid
+       id="grid21"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true"
+       dotted="false"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Checkerboard"
+       preserveAspectRatio="xMidYMid"
+       id="pattern28"
+       patternTransform="scale(3)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       style="fill:#000000"
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboard"
+       inkscape:stockid="Checkerboard"
+       preserveAspectRatio="xMidYMid"
+       inkscape:isstock="true"
+       inkscape:label="Шахматная доска">
+      <rect
+   style="stroke:none"
+   x="0"
+   y="0"
+   width="1"
+   height="1"
+   id="rect209" />
+
+      <rect
+   style="stroke:none"
+   x="1"
+   y="1"
+   width="1"
+   height="1"
+   id="rect211" />
+
+    </pattern>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <rect
+         style="fill:none;fill-opacity:1"
+         id="rect5"
+         width="80"
+         height="184"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#1a1a1a;stroke-width:1.49201"
+       id="rect19"
+       width="256"
+       height="256"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Lines L"
+     style="fill:none;fill-opacity:1"
+     clip-path="url(#clipPath5)">
+    <rect
+       style="fill:#ff6fd0;fill-opacity:1"
+       id="rect1"
+       width="256.42737"
+       height="6.8380632"
+       x="-195.00615"
+       y="50.414188"
+       transform="rotate(-68.088181)" />
+    <rect
+       style="fill:#ff6fd0;fill-opacity:1"
+       id="rect2"
+       width="256.42737"
+       height="6.8380632"
+       x="-191.27435"
+       y="59.69178"
+       transform="rotate(-68.088181)" />
+    <rect
+       style="fill:#ff6fd0;fill-opacity:1"
+       id="rect3"
+       width="256.42737"
+       height="6.8380632"
+       x="-187.54256"
+       y="68.969376"
+       transform="rotate(-68.088181)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text L">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Serif;-inkscape-font-specification:Serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#36e8ff;fill-opacity:1"
+       x="-150.32916"
+       y="77.315147"
+       id="text20"
+       transform="rotate(-74.362958)"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         x="-150.32916"
+         y="77.315147">ТЕТРИС</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Serif;-inkscape-font-specification:Serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a2ffdf;fill-opacity:1"
+       x="-148.53641"
+       y="75.871902"
+       id="text21"
+       transform="rotate(-74.362958)"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         x="-148.53641"
+         y="75.871902">ТЕТРИС</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g8"
+     inkscape:label="Lines R"
+     style="fill:none;fill-opacity:1"
+     clip-path="url(#clipPath5)"
+     transform="translate(80)">
+    <rect
+       style="fill:#ff6fd0;fill-opacity:1"
+       id="rect6"
+       width="256.42737"
+       height="6.8380632"
+       x="-195.00615"
+       y="50.414188"
+       transform="rotate(-68.088181)" />
+    <rect
+       style="fill:#ff6fd0;fill-opacity:1"
+       id="rect7"
+       width="256.42737"
+       height="6.8380632"
+       x="-191.27435"
+       y="59.69178"
+       transform="rotate(-68.088181)" />
+    <rect
+       style="fill:#ff6fd0;fill-opacity:1"
+       id="rect8"
+       width="256.42737"
+       height="6.8380632"
+       x="-187.54256"
+       y="68.969376"
+       transform="rotate(-68.088181)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g6"
+     inkscape:label="Text R"
+     transform="rotate(-30,79.210205,-47.047341)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Serif;-inkscape-font-specification:Serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#36e8ff;fill-opacity:1"
+       x="-150.32916"
+       y="77.315147"
+       id="text5"
+       transform="rotate(-74.362958)"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="-150.32916"
+         y="77.315147">ТЕТРИС</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Serif;-inkscape-font-specification:Serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a2ffdf;fill-opacity:1"
+       x="-148.53641"
+       y="75.871902"
+       id="text6"
+       transform="rotate(-74.362958)"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         x="-148.53641"
+         y="75.871902">ТЕТРИС</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Lines M">
+    <rect
+       style="fill:#ff6fd0;fill-opacity:1;stroke-width:0.433024"
+       id="rect8-3"
+       width="104.96661"
+       height="3.1323497"
+       x="163.30261"
+       y="-102.22131"
+       transform="matrix(0.90488832,0.42564907,-0.32525703,0.94562565,0,0)" />
+    <rect
+       style="fill:#ff6fd0;fill-opacity:1;stroke-width:0.433024"
+       id="rect10"
+       width="104.96661"
+       height="3.1323497"
+       x="164.98872"
+       y="-97.530449"
+       transform="matrix(0.90488832,0.42564907,-0.32525703,0.94562565,0,0)" />
+    <rect
+       style="fill:#ff6fd0;fill-opacity:1;stroke-width:0.433024"
+       id="rect11"
+       width="104.96661"
+       height="3.1323497"
+       x="166.6246"
+       y="-92.979301"
+       transform="matrix(0.90488832,0.42564907,-0.32525703,0.94562565,0,0)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g10"
+     inkscape:label="Text M"
+     transform="matrix(0.17375329,0.64845614,-0.64845614,0.17375329,268.37351,-32.252142)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Serif;-inkscape-font-specification:Serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#36e8ff;fill-opacity:1"
+       x="-150.32916"
+       y="77.315147"
+       id="text9"
+       transform="rotate(-74.362958)"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         x="-150.32916"
+         y="77.315147">ТЕТРИС</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:Serif;-inkscape-font-specification:Serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#a2ffdf;fill-opacity:1"
+       x="-148.53641"
+       y="75.871902"
+       id="text10"
+       transform="rotate(-74.362958)"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="-148.53641"
+         y="75.871902">ТЕТРИС</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Screen">
+    <rect
+       style="fill:#5d9eb1;fill-opacity:1"
+       id="rect21"
+       width="80"
+       height="64"
+       x="176"
+       y="192"
+       inkscape:label="Background" />
+    <rect
+       style="fill:#133f4d;fill-opacity:1;stroke-width:1.02614"
+       id="rect23"
+       width="30"
+       height="57"
+       x="204"
+       y="195"
+       inkscape:label="Field BG" />
+    <rect
+       style="fill:url(#pattern28);fill-opacity:1;stroke-width:1.02614"
+       id="rect22"
+       width="30"
+       height="57"
+       x="204"
+       y="195"
+       inkscape:label="Field BG Pattern" />
+    <g
+       id="g37"
+       inkscape:label="L Piece">
+      <path
+         id="rect29"
+         style="fill:#3effaf;fill-opacity:1"
+         d="M 213 243 L 213 252 L 216 252 L 219 252 L 219 249 L 216 249 L 216 243 L 213 243 z "
+         inkscape:label="Shape" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect30"
+         width="1"
+         height="1"
+         x="213"
+         y="249" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect31"
+         width="1"
+         height="1"
+         x="216"
+         y="249" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect32"
+         width="1"
+         height="1"
+         x="213"
+         y="246" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect33"
+         width="1"
+         height="1"
+         x="213"
+         y="243" />
+    </g>
+    <g
+       id="g55"
+       inkscape:label="L Piece">
+      <path
+         id="rect29-0"
+         style="fill:#3effaf;fill-opacity:1"
+         d="m 225,249 v -9 h -3 -3 v 3 h 3 v 6 z"
+         inkscape:label="Shape" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect30-2"
+         width="1"
+         height="1"
+         x="-223"
+         y="-241"
+         transform="scale(-1)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect31-3"
+         width="1"
+         height="1"
+         x="-220"
+         y="-241"
+         transform="scale(-1)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect32-7"
+         width="1"
+         height="1"
+         x="-223"
+         y="-244"
+         transform="scale(-1)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect33-5"
+         width="1"
+         height="1"
+         x="-223"
+         y="-247"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="g54"
+       inkscape:label="L Piece">
+      <path
+         id="rect29-6"
+         style="fill:#3effaf;fill-opacity:1"
+         d="m 213,240 h -9 v 3 3 h 3 v -3 h 6 z"
+         inkscape:label="Shape" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect30-0"
+         width="1"
+         height="1"
+         x="240"
+         y="-205"
+         transform="rotate(90)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect31-6"
+         width="1"
+         height="1"
+         x="243"
+         y="-205"
+         transform="rotate(90)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect32-2"
+         width="1"
+         height="1"
+         x="240"
+         y="-208"
+         transform="rotate(90)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect33-6"
+         width="1"
+         height="1"
+         x="240"
+         y="-211"
+         transform="rotate(90)" />
+    </g>
+    <g
+       id="g38"
+       inkscape:label="J Piece">
+      <path
+         id="rect28"
+         style="display:inline;fill:#ff3e3e;fill-opacity:1"
+         d="M 204 246 L 204 249 L 204 252 L 213 252 L 213 249 L 207 249 L 207 246 L 204 246 z "
+         inkscape:label="Shape" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect34"
+         width="1"
+         height="1"
+         x="204"
+         y="246" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect35"
+         width="1"
+         height="1"
+         x="204"
+         y="249" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect36"
+         width="1"
+         height="1"
+         x="207"
+         y="249" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect37"
+         width="1"
+         height="1"
+         x="210"
+         y="249" />
+    </g>
+    <g
+       id="g56"
+       inkscape:label="J Piece">
+      <path
+         id="rect28-7"
+         style="display:inline;fill:#ff3e3e;fill-opacity:1"
+         d="m 222,252 h 3 3 v -9 h -3 v 6 h -3 z"
+         inkscape:label="Shape" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect34-3"
+         width="1"
+         height="1"
+         x="-250"
+         y="222"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect35-6"
+         width="1"
+         height="1"
+         x="-250"
+         y="225"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect36-1"
+         width="1"
+         height="1"
+         x="-247"
+         y="225"
+         transform="rotate(-90)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect37-2"
+         width="1"
+         height="1"
+         x="-244"
+         y="225"
+         transform="rotate(-90)" />
+    </g>
+    <g
+       id="g42"
+       inkscape:label="O Piece">
+      <rect
+         style="fill:#ffc93a;fill-opacity:1"
+         id="rect38"
+         width="6"
+         height="6"
+         x="207"
+         y="243"
+         inkscape:label="Shape" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect39"
+         width="1"
+         height="1"
+         x="207"
+         y="246" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect40"
+         width="1"
+         height="1"
+         x="207"
+         y="243" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect41"
+         width="1"
+         height="1"
+         x="210"
+         y="243" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect42"
+         width="1"
+         height="1"
+         x="210"
+         y="246" />
+    </g>
+    <g
+       id="g48"
+       inkscape:label="T Piece">
+      <path
+         id="rect43"
+         style="fill:#ef4bff;fill-opacity:1"
+         d="M 219 243 L 219 246 L 216 246 L 216 249 L 219 249 L 219 252 L 222 252 L 222 243 L 219 243 z "
+         inkscape:label="Shape" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect45"
+         width="1"
+         height="1"
+         x="219"
+         y="243" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect46"
+         width="1"
+         height="1"
+         x="216"
+         y="246" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect47"
+         width="1"
+         height="1"
+         x="219"
+         y="246" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect48"
+         width="1"
+         height="1"
+         x="219"
+         y="249" />
+    </g>
+    <g
+       id="g48-4"
+       inkscape:label="T Piece"
+       transform="translate(6,-9)">
+      <path
+         id="rect43-7"
+         style="fill:#ef4bff;fill-opacity:1"
+         d="m 219,243 v 3 h -3 v 3 h 3 v 3 h 3 v -9 z"
+         inkscape:label="Shape" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect45-8"
+         width="1"
+         height="1"
+         x="219"
+         y="243" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect46-4"
+         width="1"
+         height="1"
+         x="216"
+         y="246" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect47-5"
+         width="1"
+         height="1"
+         x="219"
+         y="246" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect48-0"
+         width="1"
+         height="1"
+         x="219"
+         y="249" />
+    </g>
+    <g
+       id="g53"
+       inkscape:label="S Piece">
+      <path
+         id="rect49"
+         style="fill:#6c36ff;fill-opacity:1"
+         d="M 213 237 L 213 243 L 216 243 L 216 246 L 219 246 L 219 240 L 216 240 L 216 237 L 213 237 z "
+         inkscape:label="Shape" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect50"
+         width="1"
+         height="1"
+         x="213"
+         y="237" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect51"
+         width="1"
+         height="1"
+         x="213"
+         y="240" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect52"
+         width="1"
+         height="1"
+         x="216"
+         y="240" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect53"
+         width="1"
+         height="1"
+         x="216"
+         y="243" />
+    </g>
+    <g
+       id="g60"
+       inkscape:label="I Piece">
+      <rect
+         style="fill:#4cb3ff;fill-opacity:1"
+         id="rect56"
+         width="3"
+         height="12"
+         x="231"
+         y="240" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect57"
+         width="1"
+         height="1"
+         x="231"
+         y="243" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect58"
+         width="1"
+         height="1"
+         x="231"
+         y="240" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect59"
+         width="1"
+         height="1"
+         x="231"
+         y="246" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect60"
+         width="1"
+         height="1"
+         x="231"
+         y="249" />
+    </g>
+    <g
+       id="g60-6"
+       inkscape:label="I Piece"
+       transform="translate(-15,-45)">
+      <rect
+         style="fill:#4cb3ff;fill-opacity:1"
+         id="rect56-3"
+         width="3"
+         height="12"
+         x="231"
+         y="240" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect57-2"
+         width="1"
+         height="1"
+         x="231"
+         y="243" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect58-0"
+         width="1"
+         height="1"
+         x="231"
+         y="240" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect59-6"
+         width="1"
+         height="1"
+         x="231"
+         y="246" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect60-1"
+         width="1"
+         height="1"
+         x="231"
+         y="249" />
+    </g>
+    <rect
+       style="fill:#003a64;fill-opacity:1"
+       id="rect61"
+       width="20"
+       height="20"
+       x="180"
+       y="200" />
+    <rect
+       style="fill:#003a64;fill-opacity:1"
+       id="rect61-8"
+       width="20"
+       height="20"
+       x="180"
+       y="225" />
+    <g
+       id="g53-5"
+       inkscape:label="S Piece"
+       transform="translate(-26,-28)">
+      <path
+         id="rect49-4"
+         style="fill:#6c36ff;fill-opacity:1"
+         d="m 213,237 v 6 h 3 v 3 h 3 v -6 h -3 v -3 z"
+         inkscape:label="Shape" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect50-7"
+         width="1"
+         height="1"
+         x="213"
+         y="237" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect51-4"
+         width="1"
+         height="1"
+         x="213"
+         y="240" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect52-4"
+         width="1"
+         height="1"
+         x="216"
+         y="240" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1"
+         id="rect53-3"
+         width="1"
+         height="1"
+         x="216"
+         y="243" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1"
+       id="rect62"
+       width="13"
+       height="3"
+       x="183"
+       y="203" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1"
+       id="rect62-4"
+       width="13"
+       height="3"
+       x="181"
+       y="226" />
+    <rect
+       style="fill:#ffdb00;fill-opacity:1;stroke-width:1.1266"
+       id="rect62-49"
+       width="16.5"
+       height="3"
+       x="181"
+       y="231" />
+    <rect
+       style="fill:#ffdb00;fill-opacity:1;stroke-width:0.499999"
+       id="rect62-49-7"
+       width="3.25"
+       height="3"
+       x="181"
+       y="241" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.877058"
+       id="rect62-8"
+       width="10"
+       height="3"
+       x="181"
+       y="236" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.1554px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#002767;fill-opacity:1;stroke-width:0.33657"
+       x="202.42122"
+       y="-231.60359"
+       id="text63"
+       transform="matrix(0,0.96571396,-1.0355033,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan63"
+         x="202.42122"
+         y="-231.60359"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold';fill:#002767;fill-opacity:1;stroke-width:0.33657">ТЕТРИС</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.1554px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffdb00;fill-opacity:1;stroke-width:0.33657"
+       x="200.8367"
+       y="-229.83031"
+       id="text62"
+       transform="matrix(0,0.96571395,-1.0355033,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan62"
+         x="200.8367"
+         y="-229.83031"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible Bold';stroke-width:0.33657">ТЕТРИС</tspan></text>
+  </g>
+</svg>

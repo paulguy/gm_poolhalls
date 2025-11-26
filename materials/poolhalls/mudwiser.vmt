@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+    $basetexture "poolhalls\mudwiser.vtf"
+    $selfillum 1
+}
