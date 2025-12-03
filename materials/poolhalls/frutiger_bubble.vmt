@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+    $basetexture "poolhalls\frutiger_bubble.vtf"
+    $translucent 1
+}

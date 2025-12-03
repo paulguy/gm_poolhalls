@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+    $basetexture "poolhalls\dirtfloor006a_vibrant"
+    $surfaceprop Grass
+}

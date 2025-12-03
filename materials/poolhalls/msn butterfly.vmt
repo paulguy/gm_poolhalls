@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+    $basetexture "poolhalls\msn butterfly.vtf"
+    $translucent 1
+}

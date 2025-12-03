@@ -1,0 +1,6 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "poolhalls/dirtfloor006a_vibrant"
+	"$basetexture2" "poolhalls/cliffface002a_vibrant"
+	"$surfaceprop" "dirt"
+}
