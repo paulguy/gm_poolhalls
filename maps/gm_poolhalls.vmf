@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8870"
-	"mapversion" "207"
+	"mapversion" "208"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,7 +14,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "1"
+	"nGridSpacing" "8"
 }
 palette_plus
 {
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "207"
+	"mapversion" "208"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -286775,13 +286775,164 @@ entity
 		"logicalpos" "[1000 1500]"
 	}
 }
+entity
+{
+	"id" "68088"
+	"classname" "trigger_soundscape"
+	"origin" "-888 -712 136"
+	"soundscape" "Name of a env_soundscape_triggerable entity to turn on."
+	"spawnflags" "1"
+	"StartDisabled" "0"
+	solid
+	{
+		"id" "68086"
+		side
+		{
+			"id" "46395"
+			"plane" "(-1168 -256 288) (-608 -256 288) (-608 -1168 288)"
+			vertices_plus
+			{
+				"v" "-1168 -256 288"
+				"v" "-608 -256 288"
+				"v" "-608 -1168 288"
+				"v" "-1168 -1168 288"
+			}
+			"material" "POOLHALLS/FRUTIGER_BUBBLE"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "46394"
+			"plane" "(-1168 -1168 -16) (-608 -1168 -16) (-608 -256 -16)"
+			vertices_plus
+			{
+				"v" "-1168 -1168 -16"
+				"v" "-608 -1168 -16"
+				"v" "-608 -256 -16"
+				"v" "-1168 -256 -16"
+			}
+			"material" "POOLHALLS/FRUTIGER_BUBBLE"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "46393"
+			"plane" "(-1168 -256 288) (-1168 -1168 288) (-1168 -1168 -16)"
+			vertices_plus
+			{
+				"v" "-1168 -256 288"
+				"v" "-1168 -1168 288"
+				"v" "-1168 -1168 -16"
+				"v" "-1168 -256 -16"
+			}
+			"material" "POOLHALLS/FRUTIGER_BUBBLE"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "46392"
+			"plane" "(-608 -256 -16) (-608 -1168 -16) (-608 -1168 288)"
+			vertices_plus
+			{
+				"v" "-608 -256 -16"
+				"v" "-608 -1168 -16"
+				"v" "-608 -1168 288"
+				"v" "-608 -256 288"
+			}
+			"material" "POOLHALLS/FRUTIGER_BUBBLE"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "46391"
+			"plane" "(-608 -256 288) (-1168 -256 288) (-1168 -256 -16)"
+			vertices_plus
+			{
+				"v" "-608 -256 288"
+				"v" "-1168 -256 288"
+				"v" "-1168 -256 -16"
+				"v" "-608 -256 -16"
+			}
+			"material" "POOLHALLS/FRUTIGER_BUBBLE"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "46390"
+			"plane" "(-608 -1168 -16) (-1168 -1168 -16) (-1168 -1168 288)"
+			vertices_plus
+			{
+				"v" "-608 -1168 -16"
+				"v" "-1168 -1168 -16"
+				"v" "-1168 -1168 288"
+				"v" "-608 -1168 288"
+			}
+			"material" "POOLHALLS/FRUTIGER_BUBBLE"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "68097"
+	"classname" "env_soundscape_triggerable"
+	"radius" "128"
+	"soundscape" "Nothing"
+	"StartDisabled" "0"
+	"targetname" "multi_soundscape"
+	"origin" "-1600 0 464"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1914.22 -137.875 43.3991]"
-		"look" "[-1916.24 -134.496 39.3181]"
+		"position" "[-1041.13 -132.043 80.9816]"
+		"look" "[-1040.54 -126.403 81.0182]"
 	}
 }
 cordons
